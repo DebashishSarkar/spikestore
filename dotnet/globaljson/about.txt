@@ -1,0 +1,8 @@
+if you want to use a specific dotnet version in a directory
+
+> dotnet new globaljson
+this will create a new global.json file with current .net version applicable
+edit the file and specify another installed version which you would like to use
+
+>dotnet --version
+will show you the new version after edit
