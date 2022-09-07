@@ -1,0 +1,4 @@
+web services should be:
+> stateless
+> format JSON or XML to make use of Open Data (OData) specification
+

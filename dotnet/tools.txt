@@ -1,0 +1,3 @@
+W
+Windows Terminal - Available for free on Microsoft Store
+WSL2 (Windows Subsystem for Linux) - Run Linux on Windows
