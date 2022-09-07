@@ -1,0 +1,8 @@
+Runtime > CoreCLR repository
+Framework > CoreFX repository
+
+Runtime is delivered with application. Framework is split into NuGet packages
+
+Use .NET current versions if application is under active development so that you get updates on faster cadence
+
+Use .NET LTS if application is stable and needs periodic maintainence
