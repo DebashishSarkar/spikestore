@@ -10,3 +10,6 @@ dotnet bin\debug\net6.0\helloworld.dll
 dotnet new webapp -o HelloWebWorld
 dotnet publish -f net6.0 -c Release
 dotnet publish -c Release -r win10-x64
+dotnet publish -r win10-x64 -p:PublishSingleFile=true --self-contained -o singlefile
+dotnet publish -r win10-x64 -p:PublishSingleFile=true --self-contained -o singlefile
+
