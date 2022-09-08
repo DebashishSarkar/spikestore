@@ -1,5 +1,6 @@
 dotnet --list-sdks
 dotnet --list-runtimes
+dotnew new 
 dotnet build
 dotnet run
 dotnet restore
@@ -7,3 +8,5 @@ dotnet build --configuration Release
 dotnet run --framework net6.0
 dotnet bin\debug\net6.0\helloworld.dll
 dotnet new webapp -o HelloWebWorld
+dotnet publish -f net6.0 -c Release
+dotnet publish -c Release -r win10-x64
