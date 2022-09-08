@@ -1,2 +1,6 @@
 dotnet --list-sdks
 dotnet --list-runtimes
+dotnet build
+dotnet run
+dotnet restore
+dotnet build --configuration Release
