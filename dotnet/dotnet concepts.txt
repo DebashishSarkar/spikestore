@@ -6,3 +6,8 @@ Runtime is delivered with application. Framework is split into NuGet packages
 Use .NET current versions if application is under active development so that you get updates on faster cadence
 
 Use .NET LTS if application is stable and needs periodic maintainence
+
+Build in release mode before deploying to production as code is optimized and runs faster
+
+Build in debug and release mode in lower environments regurlarly. In debug mode, to troubleshoot issues and in release mode, to check if any unexpected behavior not present.
+
