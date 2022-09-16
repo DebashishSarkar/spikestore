@@ -1,0 +1,5 @@
+az appservice plan list --query [].name
+
+az appservice plan list -g <resource-group-name> --query [].name
+
+az appservice plan list -g <resource-group-name> --query "[].{ASP: name,SKU: sku.size}" -o table

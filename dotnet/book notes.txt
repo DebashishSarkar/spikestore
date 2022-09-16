@@ -1,0 +1,77 @@
+How to become?
+- Microsoft Certified Trainer
+- Azure Developer Associate
+- DevOps Engineer Expert
+- Certified Solution Developer
+
+Conferences
+- Microsoft Ignite
+- BASTA!
+- TechDays
+
+http://www.cninnovation.com/
+https://csharp.christiannagel.com/
+http://www.csharphelper.com/
+http://www.vb-helper.com/
+https://devblogs.microsoft.com/dotnet/author/madst/
+
+Where's C# headed?
+https://www.youtube.com/watch?v=v8bqAm4aUFM
+
+https://www.dotnetcurry.com/csharp/1455/mads-torgersen-interview
+
+Read about WebAssembly, do a spike and find out what use-cases it fits
+
+https://insights.stackoverflow.com/survey/2020
+
+What is OpenTelemetry standard?
+
+Dependency Injection design pattern, do a spike
+
+ASP.NET Core
+Entity Framework Core
+
+https://github.com/dotnet
+https://github.com/dotnet/csharplang
+
+Behind the code with Anders Hejlsberg
+https://www.youtube.com/watch?v=nCVNpwXijVQ
+
+https://en.wikipedia.org/wiki/Anders_Hejlsberg
+
+Generics
+LINQ
+Lambda Expressions
+Dynamic features
+Asynchronous Programming
+Nullable reference types
+Records
+Switch Expressions
+Top-level statements
+
+Write C# for client and server side code
+Blazor Server
+Blazor WebAssembly
+
+What is gRPC? How can it be used with ASP.NET core for binary communication between services? What are advantages and disadvantages of using gRPC? Can microservice talk on gRPC and REST, both?
+
+What is WinUI? Do a sample app. How does it compare with WPF?
+What is Universal Windows Platform (UWP)?
+
+What is Windows Subsystem for Linux? How can I run a .NET application in a linux environment? How can I debug application running in Linux from Visual Studio running in Windows?
+
+
+Windows Terminal tool
+
+https://en.wikipedia.org/wiki/Miguel_de_Icaza
+
+https://dotnet.microsoft.com/en-us/
+
+Windows Terminal
+More Command
+Use global json to work with lower .net version in a directory and its subdirectories
+Self-contained deployment
+Add Nuget package and verify through command line
+
+Read about workflow in .net
+ 	
