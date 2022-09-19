@@ -1,3 +1,5 @@
 az cosmosdb sql container throughput show -a <account-name> -d <database-name> -n <container-name> -g <resource-group-name>
 
 az cosmosdb sql container throughput update -a <account-name> -d <database-name> -n <container-name> -g <resource-group-name> --throughput 500
+
+select value count(1) from c

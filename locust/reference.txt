@@ -1,0 +1,2 @@
+https://locust.io/
+https://pypi.org/project/pip/
