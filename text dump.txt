@@ -1,0 +1,3 @@
+Key points about PCI? 
+- Development pointers
+- PCI scan

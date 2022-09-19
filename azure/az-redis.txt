@@ -1,0 +1,6 @@
+az redis list-keys -n <name> -g <resource-group-name>
+
+from redis console
+flushall
+flushdb
+

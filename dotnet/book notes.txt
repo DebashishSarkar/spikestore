@@ -56,7 +56,7 @@ Blazor WebAssembly
 What is gRPC? How can it be used with ASP.NET core for binary communication between services? What are advantages and disadvantages of using gRPC? Can microservice talk on gRPC and REST, both?
 
 What is WinUI? Do a sample app. How does it compare with WPF?
-What is Universal Windows Platform (UWP)?
+What is Universal Windows Platform (UWP)? Can the same app run on multiple OS?
 
 What is Windows Subsystem for Linux? How can I run a .NET application in a linux environment? How can I debug application running in Linux from Visual Studio running in Windows?
 
@@ -75,3 +75,46 @@ Add Nuget package and verify through command line
 
 Read about workflow in .net
  	
+Read about diagnostics support in .net
+Read about collection support in .net
+
+What is globalization and localization? Difference between two. .Net suppot System.Globalization.
+
+Understand key features of entity framework and how can it be used with relational and non-relational databases.
+
+.NET version - choosing between current (Active development, get new features faster) and LTS version (stable application which needs maintenance).
+
+
+https://www.youtube.com/watch?v=MicJm1hRNKU (Entity Framework and Cosmos DB)
+
+Find the website which had step by step tutorial of entity framework which i can follow through
+
+What are key differences between entity framework and entity framework core
+
+Write code to understand EF support for SQL database
+
+Write code to understand EF support for No-SQL database
+
+Understand MVVM design pattern
+
+Understand MVC design pattern
+
+Hello World Blazor Server
+
+Hello World Blazor WebAssembly
+
+Hello World Razor
+
+Difference between SOAP and REST?
+
+Why WCF was discontinued?
+
+Understand REST
+
+Was REST not supported in WCF?
+
+What is Open Data (OData) specification?
+
+https://www.openapis.org/
+https://swagger.io/
+
