@@ -28,7 +28,11 @@ API:
 
 Tech-Stack:
 - C#
+- C# VS Code Extension
 - Azure Function App
+- Azure Function VS Code Extension
+- Azure Function Core Tools for local development
+-- winget install Microsoft.Azure.FunctionsCoreTools
 - Azure API Management
 - Azure DevOps
 - Azure Resource Manager
@@ -42,3 +46,8 @@ CI: Build + UT + Artifact (Default=No)
 CD: CI (Artifact = Yes) + Provision + Deploy
 Destroy: Destroy specified env
 Load: CD + Locust
+
+---
+
+Open Points:
+- Function level authorization
