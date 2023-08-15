@@ -1,0 +1,2 @@
+Encryption at rest design in azure use symmetric encryption to encrypt and decrypt large amounts of data quickly
+Same key is used to encrypt and decrypt data

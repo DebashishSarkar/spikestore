@@ -1,6 +1,3 @@
-Key points about PCI? 
-- Development pointers
-- PCI scan
+https://stackoverflow.com/questions/66532064/how-to-list-all-target-frameworks-of-all-projects-for-a-given-solution-inside-vi
 
-BazaarVoice
-Wyng
+https://projectideas.co.in/dot-net-project-ideas/

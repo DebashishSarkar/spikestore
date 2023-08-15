@@ -118,3 +118,15 @@ What is Open Data (OData) specification?
 https://www.openapis.org/
 https://swagger.io/
 
+Write program to check SignalR capabilities of bidirectional communication. 
+
+Write program to explore Azure DevOps services
+
+Understand Cosmos DB NoSQL offerings and where each offering should be used
+
+Can I run a react SPA using azure function as backend?
+
+Write a small microservice and run it in a docker container
+
+
+

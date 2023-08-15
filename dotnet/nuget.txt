@@ -1,0 +1,22 @@
+dotnet restore -h
+
+dotnet restore -v
+
+dotnet restore <Project-Name-Without-csproj-extension> -v n
+
+dotnet list <Project-Name-Without-csproj-extension> package -v n
+
+dotnet list <Project-Name-Without-csproj-extension> package -v n --framework NET6.0
+
+dotnet list <Project-Name-Without-csproj-extension> package -v n --framework NET6.0 --outdated
+
+dotnet list <Project-Name-Without-csproj-extension> package -v n --framework NET6.0 --vulnerable
+
+dotnet list <Project-Name-Without-csproj-extension> package -v n --framework NET6.0 --deprecated
+
+dotnet list package -v n --outdated
+
+dotnet list package -v n --vulnerable
+
+dotnet list package -v n --deprecated
+

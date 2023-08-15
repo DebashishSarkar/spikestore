@@ -1,0 +1,3 @@
+Understand PCI
+- What does a developer need to be aware of while developing a PCI compliant application?
+- PCI scan. How much that costs?
