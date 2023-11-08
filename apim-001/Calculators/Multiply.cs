@@ -19,8 +19,8 @@ namespace Calculator
         {
             string requestBody = await new StreamReader(req.Body).ReadToEndAsync();
             dynamic data = JsonConvert.DeserializeObject(requestBody);            
-            var product= data?.a * data?.b;                                    
-            return new OkObjectResult($"Product: {product}.");
+            var multiply= data?.a * data?.b;                                    
+            return new OkObjectResult($"Multiply: {multiply}.");
         }
     }
 }

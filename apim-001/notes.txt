@@ -1,0 +1,4 @@
+how to build .net project in vscode
+CTL + SHIFT + B
+Terminal > dotnet build
+
