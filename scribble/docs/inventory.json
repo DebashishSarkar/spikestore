@@ -1,0 +1,24 @@
+[
+    {
+        "SKU":1,
+        "Name": "Blue Pencil",
+        "ProductImages":[
+            "image1url",
+            "image2url"
+        ],
+        "Price":2,
+        "Description":"This is a blue pencil",
+        "Stock":100
+    },
+    {
+        "SKU":2,
+        "Name": "Pink Pencil",
+        "ProductImages":[
+            "image1url",
+            "image2url"
+        ],
+        "Price":2,
+        "Description":"This is a pink pencil",
+        "Stock":100
+    }
+]

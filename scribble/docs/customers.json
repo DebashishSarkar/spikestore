@@ -1,0 +1,12 @@
+[
+    {
+        "ID":1,
+        "Name":"Mike Dennsion",
+        "Address": {
+            "StreetAddress":"61, Moonlight Ct,Matteson",
+            "ZipCode":"60043",
+            "State": "Illinois",
+            "Country":"USA"
+        }
+    }
+]
