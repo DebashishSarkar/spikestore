@@ -1,0 +1,8 @@
+Objective: Plot locations (fetched from API) on map (MapBox)
+
+Tech:
+Infrastructure: Azure
+    keyvault: Store license
+Maps Toolkit: Mapbox GL JS
+Frontend: React
+Backend: ASP.NET WebAPI
